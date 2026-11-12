@@ -1,0 +1,4 @@
+pycryptodome
+
+.\.venv\Scripts\python.exe .\des.py
+.\.venv\Scripts\python.exe .\res.py
